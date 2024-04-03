@@ -40,10 +40,9 @@ function Calculadora(numero1,numero2, operador){
                resultado = ("Essa opção não existe ")
            break;
    }
-
-
+      
 return resultado 
-
+      
 
 }
 
